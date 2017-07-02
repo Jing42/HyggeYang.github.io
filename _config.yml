@@ -1,12 +1,12 @@
 # Basic
-title: Jing
+title: HyggeYang
 #subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 欢迎来到我的小窝
 # 头像里面的标题
-avatarTitle: Sasuke
+avatarTitle: Hygge
 # 头像里面的描述
-avatarDesc: love coding
-url: "http://jing42.github.io"
+avatarDesc: Hygge
+url: "http://HyggeYang.github.io"
 
 # Comment
 comment:
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    #weibo: 5366874726 
-    github: Jing42
+    weibo: HyggeYang 
+    github: Hygge
     #twitter: 
-    mail: jing42@foxmail.com
+    mail: hygge_yang@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 

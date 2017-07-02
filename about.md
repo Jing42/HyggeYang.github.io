@@ -4,11 +4,11 @@ title: 关于我
 ---
 
 <p>
-QQ: 1445917015
+微博：HyggeYang
 <p>
-邮箱: jing42@foxmail.com
+邮箱: Hygge_yang@163.com
 <p>
-我的代码在这里 <a target="_blank" href='https://github.com/Jing42'>Github</a> 
+我的代码在这里 <a target="_blank" href='https://github.com/HyggeYang'>Github</a> 
 
 
 
